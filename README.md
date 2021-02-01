@@ -4,8 +4,9 @@
 
 ![](/plots/gt_viualization.png)
 
+![](/plots/rgb_composite_image.png)
 
-![](/plots/CNN model.png)
+![](/plots/CNN_model.png)
 
-![](/plots/CNN model2.png)
+![](/plots/CNN_model2.png)
 

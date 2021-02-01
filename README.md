@@ -2,8 +2,9 @@
 
 ![](/plots/image_rawdata.png)
 
-(/plots/image_rawdata.png)
+![](/plots/gt_viualization.png)
 
-(/plots/image_rawdata.png)
+![](/plots/CNN model.png)
 
-(/plots/image_rawdata.png)
+![](/plots/CNN model2.png)
+
